@@ -1,4 +1,2 @@
 [build]
-  publish = "dist"
   functions = "src/functions"
-
